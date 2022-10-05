@@ -16,3 +16,6 @@ There are 5 urls that can be used in Postman:
                 |
                 |
     Link for Postman collection
+
+
+https://www.getpostman.com/collections/448737e5973367153528 ------ > I also have included the JSON link
