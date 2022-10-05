@@ -19,3 +19,5 @@ There are 5 urls that can be used in Postman:
 
 
 https://www.getpostman.com/collections/448737e5973367153528 ------ > I also have included the JSON link
+
+You can run the application after you have initialized the node modules with the command: npm start
